@@ -5,6 +5,12 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+# PyCharm project files
+.idea
+
+# Node modules
+node_modules
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 

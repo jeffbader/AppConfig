@@ -1,0 +1,17 @@
+{
+  "name": "AppConfig",
+  "version": "0.0.0",
+  "description": "Centralizeized Application Configuration Via a REST API",
+  "main": "app.js",
+  "private": true,
+  "author": {
+    "name": "Jeff Bader",
+    "email": "jeffba@vulcan.com"
+  },
+  "dependencies": {
+    "express": "4.12.3"
+  },
+  "scripts" : {
+	"start" : "node app.js"
+  }
+}
